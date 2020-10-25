@@ -22,7 +22,7 @@ define( 'DB_NAME', 'scenhgetihwfvj
 ' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '87247' );
 
 /** MySQL tables prefix */
 define( 'DB_PREFIX', 'vibe_' );
