@@ -22,7 +22,7 @@ define( 'DB_NAME', 'scenhgetihwfvj
 ' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'postgresql-acute-87247' );
+define( 'DB_HOST', 'acute-87247' );
 
 /** MySQL tables prefix */
 define( 'DB_PREFIX', 'vibe_' );
