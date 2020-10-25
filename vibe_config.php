@@ -39,7 +39,7 @@ Create it in the store, under "My Licenses" **/
 define( 'phpVibeKey', 'the key goes here' );
 
 /** Site url (with end slash, ex: http://www.domain.com/ ) **/
-define( 'SITE_URL', 'https://www.domain.com/' );
+define( 'SITE_URL', 'https://www.mrgg233.tk/' );
 
 /** Admin folder, rename it and change it here **/
 define( 'ADMINCP', 'moderator' );
