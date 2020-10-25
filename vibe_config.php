@@ -22,7 +22,7 @@ define( 'DB_NAME', 'scenhgetihwfvj
 ' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'acute-87247' );
+define( 'DB_HOST', 'ec2-46-137-177-160.eu-west-1.compute.amazonaws.com' );
 
 /** MySQL tables prefix */
 define( 'DB_PREFIX', 'vibe_' );
