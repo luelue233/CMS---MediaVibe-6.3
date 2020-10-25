@@ -11,13 +11,15 @@ die();
 */
 
 /** MySQL database username */
-define( 'DB_USER', 'db user' );
+define( 'DB_USER', 'dcqqqfr7dqdsd3
+' );
 
 /** MySQL database password */
-define( 'DB_PASS', 'db pass' );
+define( 'DB_PASS', '3411439cf1f669265bf635b479ffb93e420e06b30741abf3de09daf98f8cb09f' );
 
 /** The name of the database */
-define( 'DB_NAME', 'db name' );
+define( 'DB_NAME', 'scenhgetihwfvj
+' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
