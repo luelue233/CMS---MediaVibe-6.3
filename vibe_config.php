@@ -11,18 +11,18 @@ die();
 */
 
 /** MySQL database username */
-define( 'DB_USER', 'dcqqqfr7dqdsd3
+define( 'DB_USER', 'ofx901ae80
 ' );
 
 /** MySQL database password */
-define( 'DB_PASS', '3411439cf1f669265bf635b479ffb93e420e06b30741abf3de09daf98f8cb09f' );
+define( 'DB_PASS', 'qt72x3' );
 
 /** The name of the database */
-define( 'DB_NAME', 'scenhgetihwfvj
+define( 'DB_NAME', 'ofx901ae80
 ' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'ec2-46-137-177-160.eu-west-1.compute.amazonaws.com' );
+define( 'DB_HOST', 'localhost' );
 
 /** MySQL tables prefix */
 define( 'DB_PREFIX', 'vibe_' );
